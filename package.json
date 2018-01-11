@@ -1,0 +1,22 @@
+{
+  "name": "tyc-utils",
+  "version": "1.0.0",
+  "description": "a tools for nodejs-dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/awesomeric/tyc-utils.git"
+  },
+  "keywords": [
+    "tools"
+  ],
+  "author": "tangyucan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awesomeric/tyc-utils/issues"
+  },
+  "homepage": "https://github.com/awesomeric/tyc-utils#readme"
+}
